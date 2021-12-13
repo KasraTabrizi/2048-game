@@ -1,3 +1,9 @@
+# 2048-game
+
+React version of the 2048 game
+
+Link of the game: [2048](https://play2048.co/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
